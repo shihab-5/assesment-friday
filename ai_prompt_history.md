@@ -140,4 +140,29 @@ dont start the full project yet i did not approve the implementation plan
 implement
 ```
 
+---
+
+## Prompt 4 - Collapsible Section Toggles & Tree Structure Alignment
+**Timestamp:** 2026-10-02T11:14:40+06:00
+
+**Prompt Content:**
+```markdown
+Order Tracking Screen
+        │
+        ├── Normal
+        │    └── Out for Delivery
+        │
+        ├── Delayed Order
+        │    └── Delay message + updated delivery + support
+        │
+        ├── Delivered but Not Received
+        │    └── Issue reporting + support
+        │
+        └── Tracking Not Available
+             └── Pending explanation + order information
+a also need you to add all which is absent in the ui 
+and every section will be shown with a just single togggle with arrow or releavant
+```
+
+
 
