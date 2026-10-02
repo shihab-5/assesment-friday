@@ -164,5 +164,27 @@ a also need you to add all which is absent in the ui
 and every section will be shown with a just single togggle with arrow or releavant
 ```
 
+---
+
+## Prompt 5 - Netlify Deployment Request
+**Timestamp:** 2026-10-02T11:22:19+06:00
+
+**Prompt Content:**
+```markdown
+deploy it into the netlify
+```
+
+---
+
+## Prompt 6 - Git Commit Before Deploy
+**Timestamp:** 2026-10-02T11:27:35+06:00
+
+**Prompt Content:**
+```markdown
+first git commit then deploy
+```
+
+
+
 
 
