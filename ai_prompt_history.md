@@ -184,6 +184,17 @@ deploy it into the netlify
 first git commit then deploy
 ```
 
+---
+
+## Prompt 7 - Remote Repo Clarification
+**Timestamp:** 2026-10-02T11:28:44+06:00
+
+**Prompt Content:**
+```markdown
+in repo not added the prooject
+```
+
+
 
 
 
